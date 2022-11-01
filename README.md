@@ -1,44 +1,48 @@
-# To-do with React
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/marciosenaf/lista-de-tarefas/blob/main/LICENSE) 
 
-This project was made in React during a challenge called "5 Projetos em 5 Dias" by [B7Web](https://b7web.com.br).
+# Sobre a Lista de Tarefa
 
-## First Steps
+Link do Projeto: https://lista-de-tarefas.pages.dev/
 
-`npm install`
+Este Projeto e uma aplicacao voltada mais para o front-end q tem como objetivo ser uma loja virtual, possuindo versatilidade e as devidas normas de seguranca
 
-## Available Scripts
+## Layout no computador
+![Web](https://github.com/marciosenaf/lista-de-tarefas/blob/main/public/computer.readme.png)
 
-In the project directory, you can run:
+# Tecnologias utilizadas
 
-### `npm start`
+- linguagem de programacao TypeScript
+- feito na biblioteca React js
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Dependencias Instaladas
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- #### typescript:
+TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.
 
-### `npm test`
+- #### styled-components
+Basicamente, styled components é uma biblioteca que possibilita escrever códigos CSS dentro do JavaScript. Com ele, você pode criar websites bonitos e funcionais. Além disso, ganhar mais agilidade e precisão no desenvolvimento web.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Implantação em produção
+- CloudFlare
 
-### `npm run build`
+# Como executar o projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# clonar repositório
+git clone https://github.com/marciosenaf/lista-de-tarefas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# instalar as dependencias
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# buildar o projeto
+npm run build
 
-### `npm run eject`
+# executar o projeto
+npm start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Autor
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Márcio Sena Santos Filho
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+https://www.linkedin.com/in/marciosenaf/
