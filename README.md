@@ -6,7 +6,7 @@ Link do Projeto: https://lista-de-tarefas.pages.dev/
 
 Este Projeto e uma aplicacao voltada mais para o front-end q tem como objetivo ser uma loja virtual, possuindo versatilidade e as devidas normas de seguranca
 
-## Layout no computador
+## Layout no Computador
 ![Web](https://github.com/marciosenaf/lista-de-tarefas/blob/main/public/computer.readme.png)
 
 # Tecnologias utilizadas
