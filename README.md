@@ -43,6 +43,6 @@ npm start
 
 # Autor
 
-Márcio Sena Santos Filho
+Márcio Sena
 
 https://www.linkedin.com/in/marciosenaf/
